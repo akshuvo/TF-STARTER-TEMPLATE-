@@ -1,0 +1,59 @@
+/**
+ * Author       : 
+ * Template Name: 
+ * Version      : 
+ */
+
+/*01.GENERAL STYLE*/
+
+body {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 1px;
+    height: 100%;
+	font-family: 'Titillium Web', sans-serif;
+    color: #666;
+}
+html,
+body {
+    height: 100%;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #333;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+a {
+	color:#3498db;
+    font-family: 'Titillium Web', sans-serif;
+    text-decoration: none;
+    -webkit-transition: all 0.2s;
+    transition: all 0.2s;
+}
+a:hover {
+    text-decoration: none;
+}
+a:focus {
+    outline: none;
+    text-decoration: none;
+}
+ul,
+li {
+    margin: 0;
+    padding: 0;
+}
+fieldset {
+    border: 0 none;
+    margin: 0 auto;
+    padding: 0;
+}
+.no-padding {
+    padding: 0;
+}
